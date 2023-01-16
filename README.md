@@ -5,6 +5,9 @@ GitHub account ID: cpvu
 ### Hanxiao Mao
 GitHub account ID: hanxmao
 
+## Game start
+Clone the repo to your local computer, and run game.py in any python IDE. 
+
 ## Game description
 Welcome to our SUD word game! In this game you will act as a ninja, and explore variaty of events(You might get some powerful jutsu or get some bad luck event, so be careful!). The board is 10X10 and once you kill enough monsters to get level 3, you can chanllege the boss. There are also health areas where  you can fully recover your health point and mana. You will also experience some random events and elite monsters.
 
